@@ -26,6 +26,8 @@ Build, genreate, save, and share amazing color palettes!
 ## 🔭 What I'm Currently Working On
 
 - Improving my skills in Go
+- Learning all about Svelte and Sveltekit
+- Improving my linux skills and knowledge
 
 Thanks for stopping by! Feel free to check out my repositories and get in touch. I'm always open to collaboration and new opportunities!
 
