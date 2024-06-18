@@ -6,6 +6,9 @@ I'm a passionate web developer based in Provo, UT, with a strong background in J
 
 ## 🌟 Projects
 
+### [Electron IDE](https://github.com/izacpeterson/electronIDE)
+A code editor I am building using Electron.js
+
 ### [Solar System Live View](https://izacpeterson.github.io/solSystem/)
 
 A dynamic representation of the planets' positions in our solar system using JavaScript and HTML canvas.
